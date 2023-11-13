@@ -1,0 +1,52 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Baraniuk(2007)]{CS_Tutorial}
+R.~G. Baraniuk.
+\newblock Compressive sensing [lecture notes].
+\newblock \emph{IEEE Signal Processing Magazine}, 24\penalty0 (4):\penalty0
+  118--121, 2007.
+
+\bibitem[Beck and Teboulle(2009)]{FISTA}
+A.~Beck and M.~Teboulle.
+\newblock A fast iterative shrinkage-thresholding algorithm for linear inverse
+  problems.
+\newblock \emph{SIAM Journal on Imaging Sciences}, 2\penalty0 (1):\penalty0
+  183--202, 2009.
+
+\bibitem[Chen et~al.(1998)Chen, Donoho, and Saunders]{BPDN}
+S.~S. Chen, D.~L. Donoho, and M.~A. Saunders.
+\newblock Atomic decomposition by basis pursuit.
+\newblock \emph{SIAM Journal on Scientific Computing}, 20\penalty0
+  (1):\penalty0 33--61, 1998.
+
+\bibitem[Daubechies et~al.(2004)Daubechies, Defrise, and De~Mol]{ISTA}
+I.~Daubechies, M.~Defrise, and C.~De~Mol.
+\newblock An iterative thresholding algorithm for linear inverse problems with
+  a sparsity constraint.
+\newblock \emph{Communications on Pure and Applied Mathematics}, 57\penalty0
+  (11):\penalty0 1413--1457, 2004.
+
+\bibitem[Golub and Van~Loan(1996)]{GoluVanl96}
+G.~H. Golub and C.~F. Van~Loan.
+\newblock \emph{Matrix Computations}.
+\newblock The Johns Hopkins University Press, third edition, 1996.
+
+\bibitem[Sacchi et~al.(1998)Sacchi, Ulrych, and Walker]{Sacchi}
+M.~Sacchi, T.~Ulrych, and C.~Walker.
+\newblock Interpolation and extrapolation using a high-resolution discrete
+  fourier transform.
+\newblock \emph{IEEE Transactions on Signal Processing}, 46\penalty0
+  (1):\penalty0 31--38, 1998.
+
+\bibitem[Zwartjes and Gisolf(2007)]{Zwartjes}
+P.~Zwartjes and A.~Gisolf.
+\newblock Fourier reconstruction with sparse inversion.
+\newblock \emph{Geophysical Prospecting}, 55\penalty0 (2):\penalty0 199--221,
+  2007.
+
+\end{thebibliography}
