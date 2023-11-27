@@ -1,4 +1,8 @@
 function SSA(DATA, dt, P, flow, fhigh, meth)
+    # SSA for FX denosising. Explicit Hankel matrices are used in this method
+    # input is data(t,x) which is transform to data(f,x) and 1D ssa is applied to
+    # each frequency f. Follows Oropeza and Sacchi, 2010 (Geophysics)
+    
     nt, nx = size(DATA)
     nf = 4 * nextpow(2,nt)
 
